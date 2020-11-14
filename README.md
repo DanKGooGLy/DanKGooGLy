@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanKGooGLy&show_icons=true&theme=dark" alt="The percentage of a language that I steal from other people">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanKGooGLy&theme=dark" alt="The percentage of a language that I steal from other people">
+  <img align="center" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=DanKGooGLy&layout=compact&theme=dark" alt="The percentage of a language that I steal from other people">
 </p>
