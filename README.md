@@ -1,6 +1,5 @@
 # Hello there.
 #### I am DanKGooGLy, otherwise known as Dank or DKG. I am a complete dumbass who likes to steal minor code from other people and publish it as my own.
-## Contact
 ###### Email: [dankgoogly@gmail.com](mailto:dankgoogly@gmail.com)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
