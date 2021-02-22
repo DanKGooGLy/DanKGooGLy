@@ -1,6 +1,6 @@
 # Hello there.
 #### I am DanKGooGLy, otherwise known as Dank or DKG
-###### Email: [dankgoogly@gmail.com](mailto:dankgoogly@gmail.com)
+###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
 <p align="center">
