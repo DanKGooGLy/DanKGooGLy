@@ -3,7 +3,7 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
-My acccount is **{{ ACCOUNT_AGE }}** years.
+My account is **{{ ACCOUNT_AGE }}** years old.
 
 I've pushed **{{ COMMITS }}** commits.
 
