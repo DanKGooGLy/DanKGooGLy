@@ -3,4 +3,4 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DanKGooGLy)]
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DanKGooGLytheme=dark)]
