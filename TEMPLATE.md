@@ -5,7 +5,7 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 <div align="center">
-  <p>Hello there. I am DanKGooGLy. I'm a 16 year old fucktard from Canada.<br/>M
+  <p>Hello there. I am DanKGooGLy. I'm a 16 year old fucktard from Canada.<br/>
     My account is {{ ACCOUNT_AGE }} years old.<br/>
     I've commited {{ COMMITS }} times.<br/> 
     I own {{ REPOSITORIES }} repositories.<br/>
