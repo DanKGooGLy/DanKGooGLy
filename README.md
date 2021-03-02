@@ -5,7 +5,7 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
-
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanKGooGLy&theme=dark">
 </div>
