@@ -3,9 +3,9 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 
-My acccount is **3** years.
+My account is **3** years old.
 
-I've pushed **145** commits.
+I've pushed **147** commits.
 
 I've opened **21** issues.
 
