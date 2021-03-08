@@ -5,7 +5,6 @@
 ###### Email: [dankgoogly@pm.me](mailto:dankgoogly@pm.me)
 ###### Discord: DanKGooGLy#0001 (Might change during the holidays)
 <div align="center">
-    <p>Hello there. I am DanKGooGLy. I'm a 16 year old fucktard from Canada.<br/>
     <table>
         <tr>
             <td align="center" style="padding=0;width=50%;">
